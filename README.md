@@ -1,6 +1,21 @@
 # ElevatorUI
 Elevator UI Homework
 
+Picture of Elevator Control Panel
+
+
+Gif of use
+
+
+Issues with current design
+
+
+
+How it could be better
+
+
+
+
 Touch Pad Demo
 1. "Swipe" to proceed to the keypad.
 2. HIt 4 on the keypad, then hit enter.
