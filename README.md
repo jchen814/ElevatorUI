@@ -18,7 +18,7 @@ How it could be better
 
 
 
-https://xd.adobe.com/spec/880cc329-65b5-48cc-538f-11af888835d9-fe3d/ "Elevator Touch Pad Demo"
+(https://xd.adobe.com/spec/880cc329-65b5-48cc-538f-11af888835d9-fe3d/ "Elevator Touch Pad Demo")
 
 Touch Pad Demo
 1. "Swipe" to proceed to the keypad.
