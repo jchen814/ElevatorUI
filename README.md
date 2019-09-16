@@ -19,7 +19,9 @@ How it could be better
 
 
 
+Elevator UI sketch/design
 
+![alt text](elevatorUI.jpg)
 
 [Elevator Touch Pad UI Demo](https://xd.adobe.com/spec/880cc329-65b5-48cc-538f-11af888835d9-fe3d/ )
 
