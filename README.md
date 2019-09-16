@@ -5,7 +5,7 @@ Picture of Elevator Control Panel
 ![alt text](20190913_210921.jpg)
 
 Gif of use
-
+![alt text](elevator.gif)
 
 Issues with current design
 * Alarm button could be easily reached by a small child
