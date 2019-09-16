@@ -13,6 +13,8 @@ Issues with current design
 * Basement doors could be misinterpreted
 * They symbols for open and close doors a bit confusing
 
+Common Use/Rare Use
+
 
 How it could be better
 
